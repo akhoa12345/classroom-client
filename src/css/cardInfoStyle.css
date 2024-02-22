@@ -1,0 +1,25 @@
+.cardInfo {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.personalImage {
+    display: block;
+    width: 300px;
+}
+
+.cardStyle {
+    width: 1000px;
+}
+
+.content {
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.item-content {
+    font-size: 16px;
+}

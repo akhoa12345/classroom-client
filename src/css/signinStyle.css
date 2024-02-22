@@ -1,0 +1,32 @@
+.signin {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title-signin {
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.btn-signin {
+    margin-top: 10px;
+}
+
+.signin-form {
+    min-width: 500px;
+    max-width: 800px;
+}
+
+.signin-form-button {
+    width: 100%;
+}
+
+.signin-form-forgot {
+    float: right;
+}
+
+.ant-col-rtl .signin-form-forgot {
+    float: left;
+}
